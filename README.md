@@ -1,2 +1,2 @@
 # WildHacks
-Go to the master branch to get the project
+Go to the blog branch to get the project.
