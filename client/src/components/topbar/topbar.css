@@ -18,6 +18,10 @@
   justify-content: center;
 }
 
+.topLeft {
+  font-size: 30px;
+}
+
 .topCenter {
   flex: 6;
 }
