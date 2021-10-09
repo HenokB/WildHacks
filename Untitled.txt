@@ -1,0 +1,27 @@
+ basename={process.env.PUBLIC_URL}
+
+{/* <img src="https://source.unsplash.com/random?amazon+forest" alt="amazon forest"></img> */}
+
+import Gallery from "./pages/gallery/Gallery";
+
+<Route path="/gallery">{user ? <Gallery /> : <Register />}</Route>
+
+<Route path="/gallery">{user ? <Gallery /> : <Register />}</Route>
+
+ basename={process.env.PUBLIC_URL}
+
+           {/* <ImageCard card2/>
+          <ImageCard card3/>
+          <ImageCard card4/> */}
+
+                    {/* <ImageCard card5/>
+          <ImageCard card6/>
+          <ImageCard card1/>
+          <ImageCard card1/> */}
+
+            const card1 = {text: "Water", comment: "Lakes in Amazon forest"};
+  const card2 = {text: "Fire", comment: "Lakes in Amazon forest" };
+  const card3 = {text: "Trees", comment: "Lakes in Amazon forest" };
+  const card4 = {text: "Ice", comment: "Lakes in Amazon forest" };
+  const card5 = {text: "Road", comment: "Lakes in Amazon forest" };
+  const card6 = {text: "Animals", comment: "Lakes in Amazon forest" };

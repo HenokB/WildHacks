@@ -12,10 +12,7 @@ export default function TopBar() {
   return (
     <div className="top">
       <div className="topLeft">
-        <i className="topIcon fab fa-facebook-square"></i>
-        <i className="topIcon fab fa-twitter-square"></i>
-        <i className="topIcon fab fa-pinterest-square"></i>
-        <i className="topIcon fab fa-instagram-square"></i>
+        <span>JUNGLE</span>
       </div>
       <div className="topCenter">
         {user &&
@@ -36,8 +33,8 @@ export default function TopBar() {
             </Link>
           </li>
           <li className="topListItem">
-            <Link className="link" to="/write">
-              BLOG
+            <Link className="link" to="/gallery">
+              GALLERY
             </Link>
           </li>
         </ul>)}

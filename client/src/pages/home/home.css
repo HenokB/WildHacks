@@ -1,3 +1,13 @@
 .home{
     display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-size: 32px;
+    margin: 30px;
+    line-height: 2;
+}
+
+.headerText{
+  width: 70%;
 }
