@@ -1,20 +1,23 @@
 {
   "files": {
-    "main.css": "/WildHacks/static/css/main.86813b91.chunk.css",
-    "main.js": "/WildHacks/static/js/main.39b105f6.chunk.js",
-    "main.js.map": "/WildHacks/static/js/main.39b105f6.chunk.js.map",
+    "main.css": "/WildHacks/static/css/main.6bdbf808.chunk.css",
+    "main.js": "/WildHacks/static/js/main.d285230f.chunk.js",
+    "main.js.map": "/WildHacks/static/js/main.d285230f.chunk.js.map",
     "runtime-main.js": "/WildHacks/static/js/runtime-main.de183a0c.js",
     "runtime-main.js.map": "/WildHacks/static/js/runtime-main.de183a0c.js.map",
-    "static/js/2.b7c9ec25.chunk.js": "/WildHacks/static/js/2.b7c9ec25.chunk.js",
-    "static/js/2.b7c9ec25.chunk.js.map": "/WildHacks/static/js/2.b7c9ec25.chunk.js.map",
+    "static/css/2.28bb0c3d.chunk.css": "/WildHacks/static/css/2.28bb0c3d.chunk.css",
+    "static/js/2.3fff92b8.chunk.js": "/WildHacks/static/js/2.3fff92b8.chunk.js",
+    "static/js/2.3fff92b8.chunk.js.map": "/WildHacks/static/js/2.3fff92b8.chunk.js.map",
     "index.html": "/WildHacks/index.html",
-    "static/css/main.86813b91.chunk.css.map": "/WildHacks/static/css/main.86813b91.chunk.css.map",
-    "static/js/2.b7c9ec25.chunk.js.LICENSE.txt": "/WildHacks/static/js/2.b7c9ec25.chunk.js.LICENSE.txt"
+    "static/css/2.28bb0c3d.chunk.css.map": "/WildHacks/static/css/2.28bb0c3d.chunk.css.map",
+    "static/css/main.6bdbf808.chunk.css.map": "/WildHacks/static/css/main.6bdbf808.chunk.css.map",
+    "static/js/2.3fff92b8.chunk.js.LICENSE.txt": "/WildHacks/static/js/2.3fff92b8.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.de183a0c.js",
-    "static/js/2.b7c9ec25.chunk.js",
-    "static/css/main.86813b91.chunk.css",
-    "static/js/main.39b105f6.chunk.js"
+    "static/css/2.28bb0c3d.chunk.css",
+    "static/js/2.3fff92b8.chunk.js",
+    "static/css/main.6bdbf808.chunk.css",
+    "static/js/main.d285230f.chunk.js"
   ]
 }
